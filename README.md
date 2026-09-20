@@ -32,7 +32,7 @@ A rede neural utiliza uma camada de saída com um único neurônio linear para p
 
 Foi utilizado o rigoroso conjunto de dados **N-CMAPSS** (*New Commercial Modular Aero-Propulsion System Simulation*), fornecido pela NASA.
 
-🔗 [NASA Prognostics Data Repository - N-CMAPSS](https://www.nasa.gov/intelligent-systems-division/discovery-and-systems-health/pcoe/pcoe-data-set-repository/)
+[NASA Prognostics Data Repository - N-CMAPSS](https://www.nasa.gov/intelligent-systems-division/discovery-and-systems-health/pcoe/pcoe-data-set-repository/)
 
 O arquivo específico extraído para este projeto modela a degradação na Turbina de Alta Pressão (HPT) e Baixa Pressão (LPT) utilizando a matriz DS02-006:
 
